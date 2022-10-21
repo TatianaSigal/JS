@@ -30,13 +30,13 @@ else if (i <7){
    
 // LAS TABLAS 
 
-// let ingresaNumero = parseInt (prompt("Ingresa un Numero del 1 al 10"))
+let ingresaNumero = parseInt (prompt("Ingresa un Numero del 1 al 10"))
 
-// for(let i = 0 ; i <= 10 ; i++){
-//     let resultado = ingresaNumero * i;
-//     console.log( ingresaNumero + "x"+ i +" "+ "=" +" "+ resultado);
+for(let i = 0 ; i <= 10 ; i++){
+    let resultado = ingresaNumero * i;
+    console.log( ingresaNumero + "x"+ i +" "+ "=" +" "+ resultado);
 
-// }
+}
 
 // TURNOS
 // for(let i = 1 ; i <= 20 ; i++){
